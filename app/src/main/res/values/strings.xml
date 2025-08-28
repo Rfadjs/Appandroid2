@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppAndroid2</string>
+    <string name="fragment_test">fragment test</string>
+
 </resources>
